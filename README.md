@@ -14,6 +14,13 @@
 
 🤝 Abierta a colaborar en proyectos open-source y desafiantes.
 
+## 📊 Mis Stats en GitHub  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiromrott&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000,000000,130F40)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiromrott&layout=compact&theme=radical)  
+
+
 🛠️ Tecnologías que manejo 
 
 ## 🛠️ Tecnologías que manejo  
@@ -42,11 +49,7 @@
 
 🔹 Herramientas & Otros
 
-## 📊 Mis Stats en GitHub  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiromrott&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000,000000,130F40)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiromrott&layout=compact&theme=radical)  
 
 
 🌐 Conectemos
