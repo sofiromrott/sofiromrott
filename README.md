@@ -1,16 +1,37 @@
-## Hi there 👋
+🌟 ¡Hola! Soy Sofía Belén Romero Rottela
 
-<!--
-**sofiromrott/sofiromrott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer | Tec en Desarrollo de Software | Apasionada por la tecnología y el aprendizaje continuo
 
-Here are some ideas to get you started:
+📍 Posadas, Misiones, Argentina | 🌐 Amante de la resolución de problemas y la construcción de soluciones digitales escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mí
+
+🎯 Me especializo en desarrollo backend y frontend con enfoque en buenas prácticas y optimización.
+
+🧠 También tengo formación en metodologías agiles, lo que me da un enfoque único para el trabajo en equipo y la comunicación.
+
+🌱 Actualmente aprendiendo más sobre arquitectura de software.
+
+🤝 Abierta a colaborar en proyectos open-source y desafiantes.
+
+🛠️ Tecnologías que manejo 🔹 Lenguajes & Frameworks
+
+🔹 Backend
+
+
+### 🔹 Frontend
+
+
+🔹 Bases de Datos
+
+
+
+🔹 Herramientas & Otros
+
+
+📊 Mis stats en GitHub
+🌐 Conectemos
+
+💼 LinkedIn
+
+📧 Email: sofi.rom.rott@gmail.com
