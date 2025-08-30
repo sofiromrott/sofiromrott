@@ -14,15 +14,29 @@
 
 🤝 Abierta a colaborar en proyectos open-source y desafiantes.
 
-🛠️ Tecnologías que manejo 🔹 Lenguajes & Frameworks
+🛠️ Tecnologías que manejo 
 
-🔹 Backend
+## 🛠️ Tecnologías que manejo  
 
+### 🔹 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,nestjs,dotnet" />
+</p>
 
-### 🔹 Frontend
+### 🔹 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,blazor" />
+</p>
 
+### 🔹 Bases de Datos  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlserver,mongodb" />
+</p>
 
-🔹 Bases de Datos
+### 🔹 Herramientas  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" />
+</p>
 
 
 
