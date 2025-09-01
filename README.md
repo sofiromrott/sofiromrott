@@ -26,10 +26,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiromrott&layout=compact&theme=radical)  
 
 <h2> 🛠️ Tecnologías que manejo </h2>
-
-
-## 🛠️ Tecnologías que manejo  
-
 ### 🔹 Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,nestjs,dotnet" />
