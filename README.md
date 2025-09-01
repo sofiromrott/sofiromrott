@@ -40,7 +40,7 @@
 
 ### 🔹 Bases de Datos  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlserver,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 </p>
 
 ### 🔹 Herramientas  
