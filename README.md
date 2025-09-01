@@ -45,7 +45,7 @@
 
 ### 🔹 Herramientas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,jira,powerbi,figma" />
 </p>
 
 
