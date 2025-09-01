@@ -26,6 +26,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiromrott&layout=compact&theme=radical)  
 
 <h2> 🛠️ Tecnologías que manejo </h2>
+
+
 ### 🔹 Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,nestjs,dotnet" />
@@ -48,7 +50,7 @@
 
 
 
-🔹 <h2>Check out my Social Media </h2>
+🔹        <h2>Check out my Social Media </h2>
 
 
 <a href="https://www.instagram.com/sofi.rom.rott/">
