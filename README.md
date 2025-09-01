@@ -49,11 +49,7 @@
 </p>
 
 
-
-
-
-
-🔹        <h2>Check out my Social Media </h2>
+<h2>Check out my Social Media </h2>
 
 
 <a href="https://www.instagram.com/sofi.rom.rott/">
